@@ -6,8 +6,7 @@ Diese Anleitung führt dich Schritt für Schritt durch die Installation und Konf
 ---
 ## 🧩 Voraussetzungen
 
-Bevor du startest, stelle sicher, dass du `Yaramo` erfolgreich installiert hast. Weitere Hilfe findest du dazu im [[🧭 Yaramo - Setup Guide]]
-
+Bevor du startest, stelle sicher, dass du `Yaramo` erfolgreich installiert hast. Weitere Hilfe findest du dazu im [Yaramo - Setup Guide](Yaramo%20-%20Setup%20Guide.md)
 
 ## 1️⃣ SUMO Converter installieren
 
