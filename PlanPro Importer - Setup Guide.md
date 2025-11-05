@@ -6,7 +6,7 @@ Damit kannst du Planungsdaten in dein Yaramo-Projekt integrieren oder weitervera
 ---
 ## 🧩 Voraussetzungen
 
-Bevor du startest, stelle sicher, dass du `Yaramo` erfolgreich installiert hast. Weitere Hilfe findest du dazu im [[🧭 Yaramo - Setup Guide]]
+Bevor du startest, stelle sicher, dass du `Yaramo` erfolgreich installiert hast. Weitere Hilfe findest du dazu im [Yaramo - Setup Guide](Yaramo%20-%20Setup%20Guide.md)
 
 ## 1️⃣ Installation
 
