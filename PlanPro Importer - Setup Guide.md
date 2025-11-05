@@ -1,3 +1,4 @@
+# PlanPro Importer - Setup Guide
 
 Der **PlanPro Importer** ermöglicht es, PlanPro-Dateien (`.ppxml`) in eine Python-Topologie zu importieren.  
 Damit kannst du Planungsdaten in dein Yaramo-Projekt integrieren oder weiterverarbeiten.

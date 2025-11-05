@@ -1,3 +1,5 @@
+# Yaramo - Setup Guide
+
 Dieser Setup-Guide hilft dir dabei, ein neues Python-Projekt mit **Poetry** aufzusetzen und das **Yaramo**-Paket direkt aus dem GitHub-Repository zu installieren.  
 Die folgenden Schritte bleiben gleich, sind aber mit zusätzlichen Erklärungen versehen, damit du genau verstehst, was passiert.
 
