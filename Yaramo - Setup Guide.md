@@ -31,7 +31,7 @@ venv\Scripts\activate
 
 ## 2️⃣ Poetry installieren
 
-[Poetry](https://python-poetry.org/) ist ein modernes Tool zur **Paketverwaltung und Projektverwaltung** in Python.  
+[Poetry](https://python-poetry.org/) ist ein Tool zur **Paketverwaltung und Projektverwaltung** in Python.  
 Es ersetzt `pip` und `virtualenv` teilweise, indem es Abhängigkeiten sauber verwaltet und reproduzierbare Builds ermöglicht.
 
 Installiere Poetry mit:
